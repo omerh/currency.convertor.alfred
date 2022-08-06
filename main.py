@@ -1,7 +1,6 @@
 import json
 import requests
 import sys
-import re
 
 # Get your API Key from https://www.exchangerate-api.com/
 api_key = ""
